@@ -1,0 +1,21 @@
+/-----------------------------------/
+
+SESSION 1: HANDS-ON GUIDE
+
+/-----------------------------------/
+
+a. cd s3_upload
+
+b. mkdir csv_files
+
+c. python3 s3_upload.py
+
+d. aws s3 rm s3://<BUCKET-NAME> --recursive
+
+/-----------------------------------/
+
+BOTO3 INSTALLATION
+
+e. pip install boto3
+
+/-----------------------------------/
