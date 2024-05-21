@@ -5,7 +5,7 @@ import sys
 
 # Configuration dictionary containing the S3 bucket name
 config = {
-   'bucket_name': 'python3-boto3-hcoco1-test-bucket'
+   'bucket_name': 'capstone1stack-rawpropertieseb3d18db-0zbcz2kgk18i'
 }
 
 # Get the directory of the current script
